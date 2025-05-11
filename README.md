@@ -50,7 +50,7 @@ Summarizes article from a URL using Playwright
 
 ---
 
-## ⚙️ Installation with Docker
+##  Installation with Docker
 
 ### 1. Clone the repo
 ```bash
@@ -89,7 +89,7 @@ docker-compose up --build
 
 ##  Demo
 
-> 📽️ You can add a GIF here showing the app in action
+> [![Watch the demo](./thumbnail.png)](https://drive.google.com/file/d/1P2GYav-yeuMMMHuNbSC5Iu5NhwHJRuX9/view?usp=sharing)
 
 ---
 
